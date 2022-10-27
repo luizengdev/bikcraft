@@ -38,7 +38,7 @@
   width: 10px;
   height: 10px;
   border-radius: 50%;
-  background: url(/img/icones/seta-abrir.svg);
+  background: url("../../img/icones/seta-abrir.svg");
   transition: 0.3s;
 }
 
